@@ -1,9 +1,3 @@
-Here’s the **updated README** with proper company attribution integrated naturally, not awkwardly added at the bottom.
-
-This reads like a **real internal R&D project released publicly**.
-
----
-
 # CyboWire – Harness Monitoring
 
 **AI-Powered Wiring Harness Intelligence for Electric Vehicles**
@@ -210,10 +204,6 @@ MIT License
 
 ## Author
 
-**Sayman Lal**
+**Mr. Akhil Chawla**
 
 AI • Electric Mobility • Distributed Systems • Intelligent Infrastructure
-
----
-
-If you want, next I can help you add the **one thing 95% GitHub repos miss** that instantly makes investors and recruiters treat a repo as a *serious product* instead of a side project.
